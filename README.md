@@ -3,7 +3,7 @@ Hello World
 
 My frist hello world
 
-initially we created a new project in android studio
+Initially we created a new project in android studio
 
 When I did see the first layaout a hello world appears by default.
 
